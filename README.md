@@ -22,3 +22,4 @@ code for paper
     ```
     gnuplot square.plot
     ```
+Alternatively, the simulation output can be plotted using any graphing software. All output data is organized into columns in the .sp files where column 1 in all simulations is time in seconds. For the Ca2+ square wave simulations, column 3 is the Ca2+ pulse, column 4 is [Ca]_i, Column 5 is [Ca]_ER. For the two cell simulations column 2 is the membrane potential for neuron 1 (rhythmogenic) and column 3 is the membrane potential for neuron 3 (pattern) in mV. For the network simulations column 2 is the population histogram spikes/bin/N. 

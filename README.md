@@ -1,5 +1,5 @@
 # Putting-the-theory-into-burstlet-theory
-code for paper
+Simulation code for bioRxiv preprint "Putting the theory into ‘burstlet theory’: A biophysical model of bursts and burstlets in the respiratory preBötzinger complex" doi: https://doi.org/10.1101/2021.11.19.469304
 
 
 1. Copy ip3.cc file to new directory and create subdirectory labeled "data"
